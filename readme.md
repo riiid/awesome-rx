@@ -18,6 +18,8 @@
 - [Reactive JavaScript at Netflix, Microsoft and the World](https://www.youtube.com/watch?v=BwwgmB73Hzw) by Matthew Podwysocki
 - [Asynchronous JavaScript at Netflix](https://www.youtube.com/watch?v=a8W5VVGO-jA) by Matthew Podwysocki
 - [A General Theory of Reactivity](https://www.youtube.com/watch?v=2p51PE1MZ8U) by Kris Kowal
+- [Going Reactive, An Android Architectural Journey](https://www.youtube.com/watch?v=R16OHcZJTno) by Matthias Käppler
+- [Building our reactive future ](https://www.youtube.com/watch?v=IB4BHRtu2MA&index=239&list=WL) by Matthew Podwysocki
 
 ## Podcasts
 
@@ -30,5 +32,6 @@
 ## Book
 - [RxJS Git Book](http://xgrommx.github.io/rx-book/)
 - [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs)
+- [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
 
 ## License
