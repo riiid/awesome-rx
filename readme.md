@@ -5,6 +5,7 @@
 - [Official Documentations](http://reactivex.io/)
 - [rxjs-dash](https://github.com/riiid/rxjs-dash) - Generate RxJs documentations for [Dash](https://kapeli.com/dash)
 - [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
+- [Rx Visualizer](https://rxviz.com) - Animated playground for Rx Observables
 
 ## Articles
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
